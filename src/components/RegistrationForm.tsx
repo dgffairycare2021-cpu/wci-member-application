@@ -265,7 +265,7 @@ const RegistrationForm = () => {
 
               {/* ข้อมูลที่อยู่ */}
               <div className="bg-primary/10 p-4 rounded-lg">
-                <h3 className="text-lg font-semibold text-primary mb-4">ข้อมูลที่อยู่สิ่งพึงสิ่งสำคัญการส่งโครร / Shipping Address</h3>
+                <h3 className="text-lg font-semibold text-primary mb-4">ข้อมูลที่อยู่จัดส่ง / Shipping Address</h3>
                 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
                   <div>
